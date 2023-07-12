@@ -1,6 +1,5 @@
-# Hi, I’m Adam Curzon
-## I’m a Full Stack Developer with 4 years of professional experience.
+<h1 align="center">Hi, I’m Adam Curzon 👋</h1>
+<p align="center"><b>I’m a Full Stack Developer with 4 years of professional experience.</b><p>
+<p align="center">🎓 Currently Learning: Vue & ASP.net</p>
 
-I work with a wide range of technologies and can help you with any IT related services.
 
-I’ll always approach any project with a friendly smile and a can-do attitude!
